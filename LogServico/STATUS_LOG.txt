@@ -1,0 +1,415 @@
+14/01/2021 08:39:41 - Serviço iniciado! 
+14/01/2021 08:41:41 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:43:41 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:45:49 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:45:49 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:48:01 - Serviço iniciado! 
+14/01/2021 08:48:11 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:48:21 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:48:31 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:48:41 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:48:51 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:49:01 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:49:11 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:49:14 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:50:38 - Serviço iniciado! 
+14/01/2021 08:50:48 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:50:48 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:50:58 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:50:58 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:51:08 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:51:08 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:51:18 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:51:18 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:51:28 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:51:28 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:51:38 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:51:38 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:52:03 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:53:25 - Serviço iniciado! 
+14/01/2021 08:55:55 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:55:55 - Serviço executado a cada 2 minutos! 
+14/01/2021 08:56:22 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:57:21 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:57:21 - Serviço iniciado! 
+14/01/2021 08:59:51 - Meu Serviço do Windows Encerrou 
+14/01/2021 08:59:51 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:00:21 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:00:21 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:01:21 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:01:21 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:02:22 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:02:22 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:03:01 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:02 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:02 - Serviço iniciado! 
+14/01/2021 09:04:03 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:03 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:04:04 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:04:05 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:05 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:04:06 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:06 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:04:07 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:07 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:04:14 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:14 - Serviço iniciado! 
+14/01/2021 09:04:24 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:04:34 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:34 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:04:44 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:44 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:04:54 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:04:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:05:04 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:05:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:05:14 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:05:14 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:05:24 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:05:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:05:34 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:05:34 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:05:44 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:05:44 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:05:54 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:05:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:06:04 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:06:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:06:14 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:06:14 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:06:24 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:06:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:06:26 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:06:55 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:06:55 - Serviço iniciado! 
+14/01/2021 09:07:05 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:05 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:05 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:05 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:07:15 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:15 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:15 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:15 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:07:25 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:25 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:25 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:25 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:07:35 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:35 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:35 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:35 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:07:45 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:45 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:45 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:45 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:07:55 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:55 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:55 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:07:55 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:08:04 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:04 - Serviço iniciado! 
+14/01/2021 09:08:14 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:14 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:14 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:14 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:08:24 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:24 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:24 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:08:44 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:44 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:44 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:44 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:08:54 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:54 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:54 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:08:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:09:04 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:09:04 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:09:04 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:09:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:09:06 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:10:17 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:10:17 - Serviço iniciado! 
+14/01/2021 09:10:27 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:10:27 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:10:37 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:10:37 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:10:47 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:10:47 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:10:57 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:10:57 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:11:07 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:11:07 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:11:08 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:12:01 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:12:01 - Serviço iniciado! 
+14/01/2021 09:12:11 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:12:11 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:12:21 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:12:21 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:12:31 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:12:31 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:13:36 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:13:36 - Serviço iniciado! 
+14/01/2021 09:13:46 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:13:46 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:13:56 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:13:56 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:14:06 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:14:06 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:14:16 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:14:16 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:14:26 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:14:26 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:14:36 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:14:36 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:14:46 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:14:46 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:14:48 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:15:51 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:15:51 - Serviço iniciado! 
+14/01/2021 09:17:51 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:17:51 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:19:51 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:19:51 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:20:43 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:24:45 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:24:45 - Serviço iniciado! 
+14/01/2021 09:25:27 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:25:27 - Serviço iniciado! 
+14/01/2021 09:25:37 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:25:37 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:25:47 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:25:47 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:25:57 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:25:57 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:26:07 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:26:07 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:26:17 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:26:17 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:26:27 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:26:27 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:26:37 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:26:37 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:26:47 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:26:47 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:26:57 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:26:57 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:27:07 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:27:07 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:27:17 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:27:17 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:27:27 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:27:27 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:27:37 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:27:37 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:27:47 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:27:47 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:27:57 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:27:57 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:28:07 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:28:07 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:28:17 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:28:17 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:28:27 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:28:27 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:28:37 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:28:37 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:28:47 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:28:47 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:28:57 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:28:57 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:29:07 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:29:07 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:29:16 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:29:16 - Serviço iniciado! 
+14/01/2021 09:37:28 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:37:28 - Serviço iniciado! 
+14/01/2021 09:37:38 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:37:38 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:37:48 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:37:48 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:37:58 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:37:58 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:38:18 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:38:18 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:38:28 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:38:28 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:43:49 - Serviço iniciado! 
+14/01/2021 09:44:59 - Serviço iniciado! 
+14/01/2021 09:45:09 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:45:09 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:45:29 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:45:29 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:45:39 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:45:39 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:45:49 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:45:49 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:45:59 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:45:59 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:46:09 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:46:09 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:46:19 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:46:19 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:46:29 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:46:29 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:46:39 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:46:39 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:46:49 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:46:49 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:46:59 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:46:59 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:47:09 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:47:09 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:47:19 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:47:19 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:47:29 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:47:29 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:47:39 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:47:39 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:47:49 - Meu Serviço do Windows Encerrou 
+14/01/2021 09:47:49 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:48:39 - Serviço iniciado! 
+14/01/2021 09:48:49 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:48:59 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:49:09 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:49:19 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:49:29 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:49:39 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:49:49 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:49:59 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:50:09 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:50:19 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:50:29 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:50:39 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:50:49 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:52:12 - Serviço iniciado! 
+14/01/2021 09:52:22 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:52:32 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:52:42 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:52:52 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:53:02 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:53:12 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:53:22 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:53:32 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:53:42 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:53:52 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:54:02 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:54:12 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:54:22 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:54:32 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:56:27 - Serviço iniciado! 
+14/01/2021 09:56:37 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:56:47 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:56:57 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:57:07 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:57:17 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:57:27 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:57:37 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:58:12 - Serviço iniciado! 
+14/01/2021 09:58:23 - Serviço iniciado! 
+14/01/2021 09:58:23 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:58:33 - Serviço iniciado! 
+14/01/2021 09:58:33 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:58:33 - Serviço iniciado! 
+14/01/2021 09:58:33 - Serviço executado a cada 2 minutos! 
+14/01/2021 09:58:43 - Serviço iniciado! 
+14/01/2021 10:00:09 - Serviço iniciado! 
+14/01/2021 10:00:09 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:00:19 - Serviço iniciado! 
+14/01/2021 10:00:19 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:00:29 - Serviço iniciado! 
+14/01/2021 10:00:29 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:00:29 - Serviço iniciado! 
+14/01/2021 10:00:29 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:00:39 - Serviço iniciado! 
+14/01/2021 10:00:39 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:00:39 - Serviço iniciado! 
+14/01/2021 10:00:39 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:00:39 - Serviço iniciado! 
+14/01/2021 10:00:39 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:00:49 - Serviço iniciado! 
+14/01/2021 10:00:49 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:00:49 - Serviço iniciado! 
+14/01/2021 10:00:49 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:00:49 - Serviço iniciado! 
+14/01/2021 10:00:49 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:00:49 - Serviço iniciado! 
+14/01/2021 10:01:21 - Serviço iniciado! 
+14/01/2021 10:01:31 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:01:41 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:01:51 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:02:01 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:02:09 - Serviço iniciado! 
+14/01/2021 10:03:44 - Serviço iniciado! 
+14/01/2021 10:03:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:04:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:04:14 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:04:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:04:34 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:04:44 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:04:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:05:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:05:14 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:05:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:05:34 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:05:44 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:05:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:06:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:06:14 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:06:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:06:34 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:06:44 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:06:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:07:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:07:14 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:07:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:07:34 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:07:44 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:07:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:08:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:08:14 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:08:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:08:34 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:08:44 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:08:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:09:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:09:14 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:09:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:09:34 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:09:44 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:09:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:10:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:10:14 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:10:24 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:10:34 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:10:44 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:10:54 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:11:04 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:12:42 - Serviço iniciado! 
+14/01/2021 10:12:52 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:13:02 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:13:12 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:13:22 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:13:32 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:13:42 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:13:52 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:14:02 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:14:12 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:14:22 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:14:32 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:14:42 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:14:52 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:15:02 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:15:12 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:15:22 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:15:32 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:15:42 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:15:52 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:16:02 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:16:12 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:16:22 - Serviço executado a cada 2 minutos! 
+14/01/2021 10:22:16 - Serviço iniciado! 
